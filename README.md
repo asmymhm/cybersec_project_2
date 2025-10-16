@@ -138,7 +138,7 @@ Based on the findings, the following security recommendations are necessary:
 
 ---
 
-## 🖼️ Screenshots & Evidence
+## 🖼️ Screenshots and Evidence
 
 Screenshot_Main_Capture.png ![screenshot](evidence/Screenshot_Main_Capture.png)
 
