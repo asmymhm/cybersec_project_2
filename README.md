@@ -24,8 +24,8 @@
 6.  [🚨 Findings](#-findings)
 7.  [🧩 Indicators of Compromise (IOCs)](#-indicators-of-compromise-iocs)
 8.  [🧾 Conclusion](#-conclusion)
-9.  [🛡️ Recommendations](#-recommendations)
-10. [🖼️ Screenshots & Evidence](#-screenshots--evidence)
+9.  [👀 Recommendations](#-recommendations)
+10. [🖼️ Screenshots and Evidence](#-screenshots-and-evidence)
 11. [🎓 Learning Outcomes](#-learning-outcomes)
 12. [🏁 Project Summary](#-project-summary)
  
@@ -59,7 +59,7 @@ and anomalous/hostile activity (port scanning).
 
 ---
 
-## 📂Evidence overview 
+## 📂 Evidence overview 
 
 Three primary security and network events were successfully isolated and analyzed:
 
@@ -125,7 +125,7 @@ security findings in real-world scenarios.
 
 ---
 
-## 🛡️ Recommendations
+## 👀 Recommendations
 
 Based on the findings, the following security recommendations are necessary:
 
